@@ -3,17 +3,34 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
+
 pre{
-   background-color: aliceblue;
-   background-size: 4px;
-   border-radius: 10%;
-   margin-top: 7%;
-   size: 40px;
-    width: 50%;
-    height: 10%;
+    background-color: aliceblue;
+    background-size: 4px;
+    border-radius: 10%;
+    margin-top: 7%;
+    size: 40px;
+    width: 600px;
     border: 60px;
     box-shadow: inset;
-    border-color: blueviolet
-   
+    border-color: blueviolet;
+    align-items: center;  
+    text-align: center; 
+    margin-top:60px;
+    margin-right: 70px;
+    
+
+    /* display: contents; */
+    
+}
+.Yasi{
+    align-items: center;
+}
+.homeP{
+    text-align: center;
 }
