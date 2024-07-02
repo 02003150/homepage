@@ -1,0 +1,19 @@
+body{
+    background-image: url(a.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+pre{
+   background-color: aliceblue;
+   background-size: 4px;
+   border-radius: 10%;
+   margin-top: 7%;
+   size: 40px;
+    width: 50%;
+    height: 10%;
+    border: 60px;
+    box-shadow: inset;
+    border-color: blueviolet
+   
+}
