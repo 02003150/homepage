@@ -11,13 +11,12 @@ body{
 
 pre{
     background-color: aliceblue;
-    background-size: 4px;
+   
     border-radius: 10%;
     margin-top: 7%;
-    size: 40px;
+    
     width: 600px;
     border: 60px;
-    box-shadow: inset;
     border-color: blueviolet;
     align-items: center;  
     text-align: center; 
@@ -28,9 +27,21 @@ pre{
     /* display: contents; */
     
 }
-.Yasi{
-    align-items: center;
+footer{
+    background-size: 600px;
+    background-color: aqua;
+    margin-top: 800px;
+    size: 900px;
+    background-color: black;
+    color: aliceblue;
+    background-attachment: fixed;
+    background-size: cover;
+    bottom: auto;
+    
 }
-.homeP{
-    text-align: center;
+.button{
+    color: blueviolet;
+}
+.main{
+    color: blue;
 }
