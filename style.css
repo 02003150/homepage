@@ -10,7 +10,7 @@ body{
 }
 
 pre{
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.811);
    
     border-radius: 10%;
     margin-top: 7%;
@@ -22,6 +22,8 @@ pre{
     text-align: center; 
     margin-top:60px;
     margin-right: 70px;
+    border: 10cap;
+    border-color: black;
     
 
     /* display: contents; */
